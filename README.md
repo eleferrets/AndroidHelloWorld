@@ -1,6 +1,6 @@
 # Android Prework - *HelloWorld*
 
-Submitted by: **Brian B**
+Submitted by: **Brian Balthazar**
 
 **HelloWorld** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast.
 
@@ -20,11 +20,12 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
-<!-- <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+Here's a walkthrough of implemented features: 
+
+![preview-gif](https://github.com/eleferrets/AndroidHelloWorld/blob/master/walkthrough.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...
+GIF created with Screen Recorder
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,9 +35,10 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 Everything was great!
+
 ## License
 
-    Copyright [2022] [Brian B]
+    Copyright [2022] [Brian Balthazar]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
